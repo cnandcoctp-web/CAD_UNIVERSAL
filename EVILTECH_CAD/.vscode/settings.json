@@ -1,0 +1,11 @@
+{
+  "python.defaultInterpreterPath": "/usr/local/py-utils/venvs/pytest/bin/python",
+  "python.testing.pytestEnabled": true,
+  "python.testing.pytestArgs": [
+    "."
+  ],
+  "python.analysis.extraPaths": [
+    "/usr/local/py-utils/venvs/pytest/lib/python3.12/site-packages"
+  ],
+  "python.analysis.stubPath": "typings"
+}

@@ -1,0 +1,2 @@
+[console_scripts]
+eviltech-cad = main:main
